@@ -1,0 +1,8 @@
+ширины карты
+    y: number;export interface Place {
+   // в процентах от высоты карid: string;
+  name: string;ты
+  };
+}
+  shortDescription: string;
+  description
